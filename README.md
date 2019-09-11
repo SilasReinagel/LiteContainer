@@ -18,7 +18,7 @@ Lite Container is a single source file, explicit Dependency Container.
 ## Build
 
 1. Install the [.NET Core SDK 2.0+](https://dotnet.microsoft.com/download)
-2. Clone this repository `git clone https://github.com/SilasReinagel/ProcessAssassin/`
+2. Clone this repository `git clone https://github.com/SilasReinagel/LiteContainer.DotNet`
 3. Navigate to the `src` folder in your local repository and run `dotnet build`
 
 ----
