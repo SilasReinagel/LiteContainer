@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteContainer.Tests", "LiteContainer.Tests\LiteContainer.Tests.csproj", "{272A6154-7F6C-4B7A-BE47-113191D6FCD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteContainer", "LiteContainer\LiteContainer.csproj", "{0FD031B5-404A-4EE6-AB85-E0C92DFFB85C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272A6154-7F6C-4B7A-BE47-113191D6FCD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272A6154-7F6C-4B7A-BE47-113191D6FCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272A6154-7F6C-4B7A-BE47-113191D6FCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272A6154-7F6C-4B7A-BE47-113191D6FCD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD031B5-404A-4EE6-AB85-E0C92DFFB85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD031B5-404A-4EE6-AB85-E0C92DFFB85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD031B5-404A-4EE6-AB85-E0C92DFFB85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD031B5-404A-4EE6-AB85-E0C92DFFB85C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
